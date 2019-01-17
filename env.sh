@@ -1,5 +1,5 @@
 export DBHOST="localhost"
 export DBUSER="manager"
-export DBNAME="pollsdb"
-export DBPASS="supersecretpass"
+export DBNAME="hobbynights_test"
+export DBPASS="test"
 
